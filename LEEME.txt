@@ -1,0 +1,14 @@
+MI_PAGINA - 20 actividades de PHP
+
+CONTENIDO
+- index.php: menú principal con las 20 actividades.
+- 01 a 20: una actividad PHP por archivo, con formulario y resultado.
+
+INSTRUCCIONES
+1. Descomprime mi_pagina.zip.
+2. Sube la carpeta mi_pagina completa a un alojamiento que admita PHP (por ejemplo, el espacio web de tu escuela o un hosting con PHP).
+3. Abre la dirección que te proporcione el hosting y entra a /mi_pagina/index.php.
+4. Entra a cada actividad, escribe los datos y pulsa "Ejecutar actividad".
+
+IMPORTANTE
+PHP no se ejecuta abriendo el archivo .php directamente desde el teléfono/computadora ni en un hosting que solo admita HTML. El servidor del alojamiento debe tener PHP habilitado. No necesitas instalar XAMPP para subirlo a un hosting PHP.
